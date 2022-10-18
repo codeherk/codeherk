@@ -3,6 +3,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/ByronJenkins-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/byron-jenkins)](https://www.linkedin.com/in/byron-jenkins)
 # Hi, I’m Byron! 👋🏾
 
+<img src="https://raw.githubusercontent.com/codeherk/codeherk/main/github-header.png" alt="banner that says - Byron Jenkins. Software engineer and content creator.">
+
 I'm a software engineer and content creator. My sole purpose is to continously learn 
 and share my wealth of knowledge. I use social media platforms to deliver educational 
 content about Tech with the hopes of inspiring others to code, especially minorities!
